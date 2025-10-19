@@ -64,7 +64,7 @@ Una vez configurada la API key, ejecutar la app es muy sencillo:
 
 1.  **Clona el Repositorio:**
     ```bash
-    git clone https://URL_DE_TU_REPOSITORIO.git
+    git clone https://github.com/Matias-Bravo-21/AndroidGps.git
     ```
 2.  **Abre en Android Studio:**
     * Inicia Android Studio.
