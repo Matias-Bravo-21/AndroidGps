@@ -25,4 +25,4 @@
 4.  **Ejecuta la App:**
     * Selecciona un emulador que tenga los servicios de Google Play o conecta un dispositivo Android físico.
     * Presiona el botón "Run" (▶) en la barra de herramientas.
-##DISFRUTA VIENDO UBICACIONES EN MI APP DE ANDROID <3
+## DISFRUTA VIENDO UBICACIONES EN MI APP DE ANDROID <3
