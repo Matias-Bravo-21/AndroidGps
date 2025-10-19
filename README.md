@@ -25,5 +25,4 @@
 4.  **Ejecuta la App:**
     * Selecciona un emulador que tenga los servicios de Google Play o conecta un dispositivo Android físico.
     * Presiona el botón "Run" (▶) en la barra de herramientas.
-
-¡Listo! La aplicación debería iniciarse, pedirte permiso de ubicación y luego mostrar el mapa centrado en tu posición actual.
+##DISFRUTA VIENDO UBICACIONES EN MI APP DE ANDROID <3
