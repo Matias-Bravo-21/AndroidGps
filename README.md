@@ -11,28 +11,7 @@
 * Centrado automático del mapa en la ubicación del usuario.
 ---
 
-## 🚀 Cómo Empezar
-
-Sigue estos pasos para clonar, configurar y ejecutar el proyecto.
-
-### 1. Configuración ObligatorIA: API Key de Google Maps
-
-Este proyecto **no funcionará** si no proporcionas tu propia clave de API de Google Maps.
-
-1.  **Obtén tu API Key:**
-    * Ve a la [Google Cloud Console](https://console.cloud.google.com/).
-    * Crea un nuevo proyecto o selecciona uno existente.
-    * En el menú lateral, ve a "APIs y Servicios" > "Biblioteca".
-    * Busca y **habilita** la API **"Maps SDK for Android"**.
-    * Asegúrate de que la **Facturación** esté activada para tu proyecto.
-    * Ve a "APIs y Servicios" > "Credenciales".
-    * Haz clic en "Crear Credenciales" > "API Key".
-
-
-### 2. Ejecución
-
-Una vez configurada la API key, ejecutar la app es muy sencillo:
-
+### Ejecución
 1.  **Clona el Repositorio:**
     ```bash
     git clone https://github.com/Matias-Bravo-21/AndroidGps.git
