@@ -77,6 +77,3 @@ Una vez configurada la API key, ejecutar la app es muy sencillo:
     * Presiona el botón "Run" (▶) en la barra de herramientas.
 
 ¡Listo! La aplicación debería iniciarse, pedirte permiso de ubicación y luego mostrar el mapa centrado en tu posición actual.
-
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT.
